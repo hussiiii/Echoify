@@ -1,0 +1,10 @@
+10/19/2023:
+- Set up project:
+- Downloaded Android Studio and created my project (Echoify), using Kotlin 
+- Set up Python and Flask, created a virtual enviornment, and tested a simple "Hello World" Flask program to make sure it 
+  was working 
+- Created an AWS account and made an RDS database (store data using PostgreSQL), S3 bucket (file storage), Elastic 
+  Beanstalk (for flask deployment, but this one I didn't full set up) 
+- Installed SQLAlchemy and 
+- Installed PostgreSQL on my computer and ran 'flask db init', 'flask db migrate -m "initial commmit', and 'flask db upgrade' 
+  to make sure everything was connected properly to the mydb database on AWS 

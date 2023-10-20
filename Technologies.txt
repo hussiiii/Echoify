@@ -1,0 +1,5 @@
+- Python with Flask 
+- AWS (PostgreSQL for database, also using AWS for cloud storage) 
+- Android Studio using Kotlin 
+- FireBase (for user auth) 
+- TensorFlow? 
