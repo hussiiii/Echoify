@@ -1,3 +1,3 @@
- ~~~ Temporarily on HOLD ~~
+Temporarily on HOLD (pause in development) 
 
-BackBone and SetUp is completed, but I want to learn more about Deep Learning algorithms and machine learnining/AI before I delve further ~~
+Backbone and setup is completed, but I want to learn more about Deep Learning algorithms and machine learnining/AI before I delve further 
